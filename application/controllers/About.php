@@ -2,7 +2,7 @@
 class About extends CI_Controller{
     
     
- public function about(){
+ public function index(){
      
      $this->load->view('about');
      
